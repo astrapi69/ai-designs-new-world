@@ -1,6 +1,6 @@
 # Band 1: Die Offenbarung
 
-## Kapitel 1: Perfekte Pfannkuchen
+# Kapitel 1: Perfekte Pfannkuchen
 
 Mama machte die besten Pfannkuchen der Welt. Jeden Sonntagmorgen, pünktlich um acht, duftete die ganze Küche nach
 Vanille und gerösteter Butter. Lara saß am Küchentisch und beobachtete, wie ihre Mutter den Teig in die Pfanne goss –
