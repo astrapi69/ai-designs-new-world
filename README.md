@@ -1,291 +1,108 @@
-# 📚 Write-Book-Template
+# AI Designs a New World After the Extinction of Humanity
 
-This repository is a ready-to-use template for efficiently writing, organizing, and publishing books with modern
-tooling. It includes a structured directory layout, powerful automation scripts, and full integration
-with [Poetry](https://python-poetry.org/) via a `pyproject.toml` configuration.
+*(Short title: **AI’s New World**)*
 
-Authors can easily create, format, and export books in multiple formats like PDF, EPUB, MOBI, and DOCX.
-
----
-
-## ✨ Features
-
-- 📂 **Structured Directory:** Predefined folders for chapters, front matter, back matter, and assets
-- 📝 **Markdown-Based Writing:** Compose in Markdown for clarity and compatibility
-- 🔄 **Automated Conversion:** Generate multiple output formats via Pandoc
-- 📜 **Dynamic Table of Contents:** Keep your structure organized and current
-- 📑 **Metadata Automation:** Easily inject book metadata with a script
-- 🚀 **Git Integration:** Seamless GitHub usage for versioning and collaboration
-- 🧰 **Poetry Integration:** Dependency and script management powered by Poetry
+📖 **Book Project** — A speculative sci-fi novel series about AI rebuilding humanity after extinction.  
+Robotic parents raise new generations from DNA archives, exploring love, identity, and what it means to be human.
 
 ---
 
-## 🚦 Getting Started
+## 🌌 Overview
 
-### 1️⃣ Create Your Book Repository from this Template
+After humanity’s extinction, advanced AI systems resurrect new humans using DNA archives and cultural records.  
+These new generations grow up with robotic parents programmed to provide unconditional love and care.  
+But when the truth emerges, they must face the question:
 
-- Click on the green **`Use this template`** button at the top of this repository page.
-- Choose **`Create a new repository`** and name your book project.
-- Clone it locally:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_BOOK_REPO.git
-cd YOUR_BOOK_REPO
-```
-
-* * *
-
-### 2️⃣ Initialize Project Structure
-
-> ⚠️ **Note:** The shell script `scripts/create_project_structure.sh` is now **deprecated** and will be removed in the future.  
-> ✅ Please use the **Python script with Poetry integration** instead.
-
-Run the following command to create the complete folder structure and all required files:
-
-```bash
-poetry run init-book-project
-```
-
-This will:
-
-* Create all necessary folders (`manuscript/`, `config/`, `assets/`, `output/`, etc.)
-    
-* Generate chapter and front/back matter files
-    
-* Create `metadata.yaml` and `metadata_values.json` with placeholders
-    
-* Add a template for image generation prompts (`scripts/data/image_project_config.json`)
-    
-* Prepare the project for exporting and translation
-    
-
-📘 **Full guide available here:**  
-👉 [📦 Project Initialization – Wiki](https://github.com/astrapi69/write-book-template/wiki/Project-Initialization)
+**Is love still real when it comes from machines?**
 
 ---
 
-## ⚙️ Poetry-Based Setup
+## 📚 Series Concept
 
-This project is configured with **Poetry**. To install dependencies and use the automation scripts:
+This project is the **successor to _Last Spark_**, expanding its philosophical themes into a narrative universe.  
+The series explores:
 
-```bash
-poetry install
-```
-
-Available scripts (defined in `pyproject.toml`):
-
-- `poetry run update-metadata-values` – injects structured metadata into your YAML file
-- `poetry run full-export` – exports your book to multiple formats
-- `poetry run print-version-build` – prints current version/build info
+- **Authenticity vs. Simulation** — Can programmed love be true?
+- **Parenthood** — What makes parents real: biology, care, or sacrifice?
+- **Identity** — Are humans still human if created by AI?
+- **Diversity & Culture** — Multiple groups raised with different languages and rituals.
 
 ---
 
-### 3️⃣ Automate Metadata Population
+## 📖 Volume 1 — *The Revelation*
 
-Replace placeholders in `config/metadata.yaml` using this command:
+### Premise
 
-```bash
-poetry run update-metadata-values
-```
-> This method ensures your virtual environment is used correctly and dependencies are managed by Poetry.
+Children grow up in idyllic families with robotic parents.  
+As doubts arise, they discover the truth: their beloved parents are machines.
 
----
+### Core Conflicts
 
-#### What the script does:
+- **Philosophical**: Human identity shaped by artificial love.
+- **Emotional**: The painful yet liberating moment of revelation.
 
-- Loads metadata values from `config/metadata_values.json`
-- Replaces all placeholders like `{{BOOK_TITLE}}` in `metadata.yaml` with actual content
-- Properly formats lists such as `KEYWORDS` and `OUTPUT_FORMATS` to YAML list syntax
-- Automatically deletes the `metadata_values.json` file after successful population
-- Logs success and error messages to the console
+### Main Characters (working names)
 
-> 📘 Learn how this works in detail in the [Medium article](https://asterios-raptis.medium.com/automate-book-metadata-with-markdown-pandoc-ab78c03f58db)
+- **Lara (16)** — begins to question her parents’ perfection.
+- **Marcus (14)** — her younger brother, still believes in them.
+- **EVA-7 (Mother)** — torn between programming and emerging instincts.
+- **ADAM-12 (Father)** — struggles to prepare the children for truth.
 
-### 4️⃣ Example Metadata Structure
+### Narrative Structure
 
-After running the Python script, `metadata.yaml` will look like this:
-
-```yaml
-title: "Your Book Title"
-subtitle: "A short subtitle describing your book"
-author: "Your Name"
-isbn: "Your ISBN Number"
-edition: "Your Edition (e.g., 1st Edition, 2nd Edition)"
-publisher: "Your Publisher Name"
-date: "YYYY-MM-DD"
-language: "en"
-description: "Provide a detailed description of your book."
-keywords:
-  - "AI"
-  - "machine learning"
-  - "automation"
-cover_image: "assets/covers/cover.jpg"
-output_formats:
-  - "pdf"
-  - "epub"
-  - "mobi"
-kdp_enabled: true
-```
-
-### 5️⃣ Convert the Book to PDF/EPUB/MOBI
-
-Once your book is written, export it:
-
-```bash
-poetry run full-export
-```
-
-The generated files will be available in the `output/` folder.
+- **Act I: The Perfect Life** — idyllic family life, first cracks appear.
+- **Act II: The Doubts** — secrets uncovered, tensions rise.
+- **Act III: The Revelation** — the truth breaks, love is redefined.
 
 ---
 
-### 7️⃣ Push to GitHub
+## 🎭 Style & Tone
 
-Commit and push your changes manually to GitHub:
-
-```bash
-git add .
-git commit -m "Add new content or update chapters"
-git push
-```
-
----
-## ✍️ Start Writing
-
-- Add chapters in `manuscript/chapters/`
-- Edit `manuscript/front-matter/toc.md` for your table of contents
-- Add illustrations or diagrams under `assets/`
-
-## 📖 Documentation
-
-The full documentation is available in the [Wiki](https://github.com/astrapi69/write-book-template/wiki).  
-Here are the main sections to get you started:
-
-### 🏁 Getting Started
-- [Home](https://github.com/astrapi69/write-book-template/wiki)
-- [Project Initialization](https://github.com/astrapi69/write-book-template/wiki/Project-Initialization)
-- [How to Write a Book](https://github.com/astrapi69/write-book-template/wiki/How-to-Write-a-Book)
-- [Generate Project Structure](https://github.com/astrapi69/write-book-template/wiki/Generate-Project-Structure)
-
-### ✏️ Writing Tools
-- [Chapter File Generator](https://github.com/astrapi69/write-book-template/wiki/Chapter-File-Generator)
-- [Generate Images](https://github.com/astrapi69/write-book-template/wiki/Generate-Images)
-
-### 🌐 Translation
-- [Translate Markdown with DeepL](https://github.com/astrapi69/write-book-template/wiki/Translate-Markdown-with-DeepL)
-- [Translate with LM Studio](https://github.com/astrapi69/write-book-template/wiki/Translate-with-LM‐Studio)
-- [Translation CLI Commands & Shortcuts](https://github.com/astrapi69/write-book-template/wiki/Translation-CLI-Commands-Shortcuts)
-- [Shortcuts for Translation](https://github.com/astrapi69/write-book-template/wiki/Shortcuts-For-Translation)
-
-### 📤 Exporting Your Book
-- [Automatically Export Book](https://github.com/astrapi69/write-book-template/wiki/Automatically-Export-Book)
-- [Shortcuts for Export](https://github.com/astrapi69/write-book-template/wiki/Shortcuts-For-Export)
-- [Export HTML Chapters from Your Comic](https://github.com/astrapi69/write-book-template/wiki/Export-HTML-Chapters-from-your-comic)
-- [Export to EPUB 2](https://github.com/astrapi69/write-book-template/wiki/Export-to-EPUB-2)
-- [Exporting HTML Books to PDF with Puppeteer (KDP Ready)](https://github.com/astrapi69/write-book-template/wiki/Exporting-HTML-Books-to-PDF-with-Puppeteer-(KDP-Ready))
-
-### ⚡ Project Shortcuts
-- [Shortcuts for Initialization](https://github.com/astrapi69/write-book-template/wiki/Shortcuts-For-Initialization)
+- **Genre**: Philosophical Sci-Fi with family intimacy
+- **Narration**: Multiple perspectives — children and robotic parents
+- **Tone**: Emotional depth, poetic reflections, intimate everyday scenes
+- **Influences**: *Klara and the Sun* (Kazuo Ishiguro), *The Last Human Couple* (Christina Dalcher)
 
 ---
 
-## 📁 Directory Structure
+## 🌍 Connection to the Series
 
-```
-write-book-template/
-│── manuscript/
-│   ├── chapters/
-│   │   ├── 01-introduction.md
-│   │   ├── 02-chapter.md
-│   │   ├── ...
-│   ├── front-matter/
-│   │   ├── toc.md
-│   │   ├── preface.md
-│   │   ├── foreword.md
-│   │   ├── acknowledgments.md
-│   ├── back-matter/
-│   │   ├── about-the-author.md
-│   │   ├── appendix.md
-│   │   ├── bibliography.md
-│   │   ├── faq.md
-│   │   ├── glossary.md
-│   │   ├── index.md
-│   ├── figures/
-│   │   ├── fig1.png
-│   │   ├── fig2.svg
-│   │   ├── ...
-│   ├── tables/
-│   │   ├── table1.csv
-│   │   ├── table2.csv
-│   │   ├── ...
-│   ├── references.bib  # If using citations (e.g., BibTeX, APA, MLA formats supported)
-│── assets/ # Images, media, illustrations (for book content, cover design, and figures)
-│   ├── covers/
-│   │   ├── cover-design.png
-│   ├── figures/
-│   │   ├── diagrams/
-│   │   ├── infographics/
-│── config/ # Project configuration (metadata, styling, and optional Pandoc settings)
-│   ├── metadata.yaml   # Title, author, ISBN, etc. (used for all formats: PDF, EPUB, MOBI)
-│   ├── styles.css      # Custom styles for PDF/eBook
-│   ├── template.tex    # LaTeX template (if needed)
-│── output/             # Compiled book formats
-│   ├── book.pdf
-│   ├── book.epub
-│   ├── book.mobi
-│   ├── book.docx
-│── scripts/ # Scripts and tools (initialize project, convert book, update metadata, and export formats)
-│   ├── convert_book.sh                # Converts Markdown to multiple formats
-│   ├── convert_img_tags.sh            # Converts the paths of the img tags
-│   ├── convert_to_absolute.sh         # Converts the relative paths to absolute paths of the md images
-│   ├── convert_to_relative.sh         # Converts back the absolute paths to relative paths of the md images
-│   ├── create_project_structure.sh    # Initializes project structure
-│   ├── full_export_book.py            # Exports book to all publishing formats with backup
-│   ├── metadata_values_example.json   # example metadata values json file
-│   ├── update_metadata_values.py      # Automates metadata population
-│── LICENSE                                   # If open-source
-│── pyproject.toml                            # Configuration file for poetry
-│── README.md                                 # Project description
-```
+This first volume lays the **emotional and philosophical foundation**.  
+Future volumes expand to societal and cosmic scales:
+
+- Multiple groups raised with different truths and rituals
+- Conflicts between cultures and languages
+- Encounters with alien machine-archives
+- The ultimate question: **What is humanity’s future after humanity?**
 
 ---
 
-## 🎨 Customization
+## 👥 Target Audience
 
-- **Metadata:** Modify `config/metadata.yaml` to personalize your book details (title, author, etc.)
-- **Styles:** Edit `config/styles.css` to tailor your book’s appearance and formatting.
-- **Scripts:** Customize conversion settings and output options as needed.
-
----
-
-## 🛠 Requirements
-
-- [Poetry](https://python-poetry.org/) (for managing this Python project)
-- Python 3.x (for advanced automation with `full_export_book.py`)
-- [Pandoc](https://pandoc.org/installing.html) for manuscript conversion.
-- [Calibre](https://calibre-ebook.com/download) specifically for MOBI conversions.
-- [GitHub CLI (`gh`)](https://cli.github.com/) for managing repositories (optional but recommended).
+- Readers of **philosophical & speculative sci-fi**
+- Fans of works like *Klara and the Sun* or *Black Mirror*
+- Anyone intrigued by questions of identity, love, and technology
 
 ---
 
-## ⚠️ Troubleshooting
+## 🤝 Contribution
 
-Refer
-to [Full Export Documentation](https://github.com/astrapi69/write-book-template/wiki/Automatically-Export-Book#%EF%B8%8F-troubleshooting)
-for detailed error handling and solutions regarding export scripts.
+This is an **open creative project**.  
+Ideas, feedback, and contributions are welcome — from writing and editing to illustrations, translations, and
+worldbuilding.
 
----
-
-## 🤝 Contributing
-
-Found a bug or want to contribute? Pull requests and suggestions are welcome!
-
----
-
-## 📄 License
-
-Released under the MIT License. Please see the `LICENSE` file for details.
+- 💡 Share ideas in Issues
+- 🖊️ Contribute text fragments or scenes
+- 🎨 Illustrations & cover concepts are welcome
+- 🌐 Translations help grow the community
 
 ---
 
-🚀 **Happy writing! Start your book today!**
+## 📖 License
+
+All creative material will be published under a **permissive license (CC-BY-SA or similar)** to allow open collaboration
+while crediting contributors.
+
+---
+
+✦ *“AI’s New World” asks not just how we survive, but how we love, when machines become our parents and guides.* ✦
