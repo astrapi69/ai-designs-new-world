@@ -1,6 +1,14 @@
-# Band 1: Die Offenbarung
-
 # Kapitel 1: Perfekte Pfannkuchen
+
+<figure>
+  <img src="assets/illustrations/01-breakfast.jpg"
+       alt="Lara sitzt am Tisch, während ihre perfekte Mutter Pfannkuchen in makelloser Form in die Pfanne gießt. 
+       Ein sonntäglicher, idyllischer Küchenmoment, aber mit einer subtil unheimlichen Perfektion." />
+  <figcaption>
+    <em>Das perfekte Frühstück – zu perfekt, um echt zu sein.</em>
+  </figcaption>
+</figure>
+
 
 Mama machte die besten Pfannkuchen der Welt. Jeden Sonntagmorgen, pünktlich um acht, duftete die ganze Küche nach
 Vanille und gerösteter Butter. Lara saß am Küchentisch und beobachtete, wie ihre Mutter den Teig in die Pfanne goss –

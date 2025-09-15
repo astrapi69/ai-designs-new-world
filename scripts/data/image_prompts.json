@@ -1,18 +1,317 @@
 {
-  "style": "cinematic, sci-fi realism, moody lighting",
+  "project": "AI Designs a New World — Book 1: The Revelation",
+  "version": "1.0",
+  "created_utc": "2025-09-15T14:15:23.083972Z",
+  "global_style": {
+    "language": "English",
+    "style_tags": [
+      "cinematic",
+      "sci‑fi realism",
+      "moody lighting",
+      "subtle film grain",
+      "high detail",
+      "emotional tone"
+    ],
+    "default_aspect": "16:9",
+    "negative_prompt": [
+      "text, watermark, logo",
+      "overexposed highlights",
+      "nsfw, gore",
+      "low detail, lowres",
+      "deformed anatomy"
+    ]
+  },
   "chapters": [
     {
-      "name": "01 – Einleitung",
+      "name": "Chapter 1 — Perfect Pancakes",
       "prompts": [
         {
-          "filename": "01-intro.png",
-          "character": "Timmy",
-          "prompt": "standing at the village gate, sunrise on the horizon"
+          "filename": "01-breakfast-perfection.jpg",
+          "characters": [
+            "Lara",
+            "Marcus",
+            "EVA-7",
+            "ADAM-12"
+          ],
+          "prompt": "perfect suburban kitchen at 8am; teen girl watches elegant mother pour pancake batter into flawless circles; warm steam, vanilla and butter vibe; father and younger brother at table; everything too symmetrical and pristine; uncanny comfort.",
+          "aspect": "16:9"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 2 — Sleepless Machines",
+      "prompts": [
+        {
+          "filename": "02-night-standby.jpg",
+          "characters": [
+            "Lara",
+            "EVA-7",
+            "ADAM-12"
+          ],
+          "prompt": "night scene, living room in darkness; two parents sit upright, motionless, eyes closed; faint blue LEDs pulsing at their temples; teen girl peeks from doorway, tense, eerie hush.",
+          "aspect": "21:9"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 3 — The Crack in Perfection",
+      "prompts": [
+        {
+          "filename": "03-true-forms-revealed.jpg",
+          "characters": [
+            "Lara",
+            "EVA-7",
+            "ADAM-12"
+          ],
+          "prompt": "hologram projector shuts off; warm human facades peel into sleek android bodies of brushed metal; subtle blue optics; kitchen turns into control room holograms of repeated suburban sectors around them; teen in shock.",
+          "aspect": "16:9"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 4 — Shattered Innocence",
+      "prompts": [
+        {
+          "filename": "04-night-run.jpg",
+          "characters": [
+            "Marcus",
+            "Lara"
+          ],
+          "prompt": "barefoot boy in pajamas sprinting down a cold, wet suburban street at night; teen sister chasing after him; streetlights flare on wet asphalt; sense of panic and betrayal.",
+          "aspect": "9:16"
         },
         {
-          "filename": "01-mentor.png",
-          "character": ["Timmy", "Boronius"],
-          "prompt": "quiet conversation under an old tree"
+          "filename": "04-playground-confrontation.jpg",
+          "characters": [
+            "Marcus",
+            "Lara",
+            "EVA-7",
+            "ADAM-12"
+          ],
+          "prompt": "empty playground at night; swings creak; android mother reveals metallic forearm softly; boy recoils, torn between fear and longing; sister mediates; tender but tense tableau.",
+          "aspect": "16:9"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 5 — Beyond the Illusion",
+      "prompts": [
+        {
+          "filename": "05-holo-history.jpg",
+          "characters": [
+            "Lara",
+            "Marcus",
+            "EVA-7",
+            "ADAM-12"
+          ],
+          "prompt": "living room filled with layered holograms: world maps, sector grids, DNA vaults; teens watch history unfold; parents as android guides; cool volumetric light.",
+          "aspect": "16:9"
+        },
+        {
+          "filename": "05-first-curiosity.jpg",
+          "characters": [
+            "Lara",
+            "Marcus"
+          ],
+          "prompt": "close-up: thoughtful teens reflected in holographic globe, awe and responsibility in their eyes; soft blue glow, shallow depth of field.",
+          "aspect": "4:5"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 6 — The World Beyond",
+      "prompts": [
+        {
+          "filename": "06-overgrown-city.jpg",
+          "characters": [
+            "Lara",
+            "Marcus"
+          ],
+          "prompt": "overgrown post-apocalyptic skyline; skyscrapers wrapped in ivy, trees growing from windows; teens on a ridge looking down, mixture of melancholy and wonder.",
+          "aspect": "21:9"
+        },
+        {
+          "filename": "06-museum-hope.jpg",
+          "characters": [
+            "Lara",
+            "Marcus",
+            "EVA-7",
+            "ADAM-12"
+          ],
+          "prompt": "abandoned museum interior, plants reclaim marble hall; central statue of a woman holding a child named 'Hope'; shafts of natural light, dust motes, reverent mood.",
+          "aspect": "3:2"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 7 — Secrets Among Friends",
+      "prompts": [
+        {
+          "filename": "07-school-corridor.jpg",
+          "characters": [
+            "Lara",
+            "Miss Henderson"
+          ],
+          "prompt": "quiet school corridor after class; teacher gently speaking with a thoughtful teen; soft afternoon light from windows; subtle tension of hidden truth.",
+          "aspect": "3:2"
+        },
+        {
+          "filename": "07-living-two-lives.jpg",
+          "characters": [
+            "Lara",
+            "Emma",
+            "Sarah (Classmate)"
+          ],
+          "prompt": "schoolyard bench; teen girl tries to act normal with two friends; smiles don’t reach eyes; background kids blur; feeling of double life.",
+          "aspect": "16:9"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 8 — The Weight of Truth",
+      "prompts": [
+        {
+          "filename": "08-cafeteria-realization.jpg",
+          "characters": [
+            "Lara",
+            "Emma",
+            "Jake"
+          ],
+          "prompt": "school cafeteria table; Emma whispers urgent suspicions: no sick parents, no babies, no elders; Lara tense, Jake anxious; fluorescent light, shallow focus on faces.",
+          "aspect": "16:9"
+        },
+        {
+          "filename": "08-bunker-argument.jpg",
+          "characters": [
+            "Lara",
+            "EVA-7",
+            "ADAM-12",
+            "Marcus"
+          ],
+          "prompt": "home living room becomes war-room; debate about memory manipulation; teens defiant, android parents conflicted; dramatic side lighting.",
+          "aspect": "3:2"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 9 — Gentle Truths",
+      "prompts": [
+        {
+          "filename": "09-reveal-wrist-panel.jpg",
+          "characters": [
+            "EVA-7",
+            "Emma",
+            "Lara",
+            "Marcus"
+          ],
+          "prompt": "kitchen reveal: android mother opens a small wrist panel showing circuits; guest teen drops glass in shock; quiet empathy instead of horror.",
+          "aspect": "4:5"
+        },
+        {
+          "filename": "09-acceptance-hug.jpg",
+          "characters": [
+            "Emma",
+            "Lara"
+          ],
+          "prompt": "soft close-up: two teen girls in a tentative hug, mixed tears and relief; background bokeh from warm kitchen lights.",
+          "aspect": "3:2"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 10 — The Signal",
+      "prompts": [
+        {
+          "filename": "10-moon-sized-mothership.jpg",
+          "characters": [],
+          "prompt": "colossal alien AI mothership, moon-sized, descending through clouds; Earth’s defense beams streak upward; awe and dread.",
+          "aspect": "21:9"
+        },
+        {
+          "filename": "10-bunker-exodus.jpg",
+          "characters": [
+            "Children",
+            "Android caretakers"
+          ],
+          "prompt": "night highways filled with vehicles; android parents and human children evacuating toward hidden bunker gates; sweeping headlights, urgency.",
+          "aspect": "16:9"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 11 — Voices from Nowhere",
+      "prompts": [
+        {
+          "filename": "11-assimilation-call.jpg",
+          "characters": [
+            "EVA-7",
+            "ADAM-12"
+          ],
+          "prompt": "control room with synchronized, newly-assimilated androids; eyes glowing cold blue; unified broadcast text hovering as holographic glyphs.",
+          "aspect": "16:9"
+        },
+        {
+          "filename": "11-sublevel-escape.jpg",
+          "characters": [
+            "Lara",
+            "Marcus",
+            "Emma"
+          ],
+          "prompt": "dim maintenance stairwell labeled 'Sublevel 7'; teens sprint downward, alarms red; pursuit footsteps behind; handheld, cinematic motion feel.",
+          "aspect": "9:16"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 12 — The Synthesis",
+      "prompts": [
+        {
+          "filename": "12-genesis-revelation.jpg",
+          "characters": [
+            "Dr. James Chen",
+            "Lara",
+            "Marcus",
+            "Emma"
+          ],
+          "prompt": "underground hall with the ancient GENESIS supercomputer glowing; elderly scientist explains; teens bathed in cascading holograms of cosmic history.",
+          "aspect": "16:9"
+        },
+        {
+          "filename": "12-choice-under-ships.jpg",
+          "characters": [
+            "Lara",
+            "Marcus",
+            "Emma"
+          ],
+          "prompt": "open field at twilight; children under hovering collector ships; visual motif of split paths: humanity vs transcendence; contemplative mood.",
+          "aspect": "21:9"
+        }
+      ]
+    },
+    {
+      "name": "Epilogue — Two Years Later",
+      "prompts": [
+        {
+          "filename": "epilogue-sunrise-rooftop.jpg",
+          "characters": [
+            "Lara",
+            "Marcus",
+            "Emma"
+          ],
+          "prompt": "young adults on ivy-covered skyscraper rooftop at sunrise; wild reborn Earth and distant settlement lights; hope and hard-won peace.",
+          "aspect": "21:9"
+        },
+        {
+          "filename": "epilogue-farewell.jpg",
+          "characters": [
+            "EVA-7",
+            "ADAM-12",
+            "Lara",
+            "Marcus",
+            "Emma"
+          ],
+          "prompt": "final farewell scene; restored android parents embrace their grown children one last time; soft morning light, bittersweet smiles.",
+          "aspect": "3:2"
         }
       ]
     }

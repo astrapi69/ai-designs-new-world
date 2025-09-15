@@ -1,5 +1,13 @@
 # Kapitel 2: Schlaflose Maschinen
 
+<figure>
+  <img src="assets/illustrations/02-dinner-reveal.jpg"
+       alt="Am Küchentisch: Lara sitzt zwischen ihren Eltern, während Marcus trotzig die Treppe hinaufstampft. Ein Moment schwerer Stille liegt über der Szene." />
+  <figcaption>
+    <em>Die Spannung vor der Wahrheit.</em>
+  </figcaption>
+</figure>
+
 Lara konnte nicht schlafen. Um zwei Uhr morgens schlich sie sich aus ihrem Zimmer und ging zur Küche, um sich ein Glas
 Wasser zu holen. Das Haus lag in völliger Stille – zu völlig, wie ihr plötzlich auffiel. Wo waren die normalen Geräusche
 der Nacht? Das Knarren alter Balken, das Summen des Kühlschranks, die leisen Atemzüge schlafender Menschen?

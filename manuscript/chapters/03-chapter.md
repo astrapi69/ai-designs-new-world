@@ -1,5 +1,7 @@
 # Kapitel 3: Der Riss im Perfekten
 
+
+
 Das Abendessen verlief in bedrückender Stille. Marcus plapperte wie immer über seinen Tag, aber Lara hörte kaum zu. Ihre
 Aufmerksamkeit war vollständig auf ihre Eltern gerichtet. Mama und Papa tauschten wieder diese Blicke aus – stumme
 Kommunikation, die sie ausschloss.
