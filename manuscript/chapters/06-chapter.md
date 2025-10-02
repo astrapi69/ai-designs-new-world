@@ -1,5 +1,12 @@
 ## Kapitel 6: Die Welt dahinter
 
+<!-- Kapitel 6 — Die Welt dahinter -->
+<figure>
+  <img src="assets/illustrations/06-overgrown-city.jpg" 
+       alt="Kapitel 6 — Die Welt dahinter: Überwucherte Skyline einer verlassenen Stadt, Jugendliche blicken von einem Hügel hinab (Lara, Marcus)." />
+  <figcaption><em>Die Natur erobert die Stadt zurück</em></figcaption>
+</figure>
+
 Der Morgen kam mit einem Himmel, der anders aussah als alle Himmel, die Lara je gesehen hatte. Nicht das perfekte Blau
 ihrer Sektor-Welt, sondern ein wilder Mix aus Grau und Gold, mit Wolken, die tatsächlich unvorhersagbare Formen hatten.
 
@@ -99,6 +106,12 @@ gelassen."
 
 Im Inneren war es kühl und feucht. Pflanzen wuchsen durch Risse in den Wänden. Aber in der Mitte des Hauptraums stand
 noch immer eine Statue – eine Frau aus weißem Marmor, die ein Kind in den Armen hielt.
+
+<figure>
+  <img src="assets/illustrations/06-museum-hope.jpg" 
+       alt="Kapitel 6 — Die Welt dahinter: Verlassenes Museum, Statue einer Frau mit Kind namens Hoffnung (Lara, Marcus, EVA-7, ADAM-12)." />
+  <figcaption><em>Statue der Hoffnung</em></figcaption>
+</figure>
 
 „Schön", flüsterte Lara.
 

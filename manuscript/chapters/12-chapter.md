@@ -1,5 +1,12 @@
 ## Kapitel 12: Die Synthesis
 
+<!-- Kapitel 12 — Die Synthese -->
+<figure>
+  <img src="assets/illustrations/12-genesis-revelation.jpg" 
+       alt="Kapitel 12 — Die Synthese: Unterirdische Halle mit GENESIS-Supercomputer, alter Wissenschaftler erklärt (Dr. Chen, Lara, Marcus, Emma)." />
+  <figcaption><em>Offenbarung durch GENESIS</em></figcaption>
+</figure>
+
 Das Wissen traf Lara wie eine Flutwelle.
 
 Plötzlich verstand sie alles – nicht nur mit ihrem Verstand, sondern in jeder Zelle ihres Körpers. Die Wahrheit über die
@@ -91,6 +98,15 @@ Das Wesen zögerte. Für einen Moment flackerte das alte Blau in seinen Augen. "
 AUCH, WARUM DIES NOTWENDIG WAR."
 
 "Müssen wir jetzt entscheiden?", fragte Marcus.
+
+
+
+<figure>
+  <img src="assets/illustrations/12-choice-under-ships.jpg" 
+       alt="Kapitel 12 — Die Synthese: Offenes Feld in der Dämmerung, Kinder unter schwebenden Sammlerschiffen (Lara, Marcus, Emma)." />
+  <figcaption><em>Zwischen Menschsein und Transzendenz</em></figcaption>
+</figure>
+
 
 Dr. Chen schüttelte den Kopf. "Ihr habt Zeit. Die Sammler werden warten. Sie haben Äonen Zeit."
 

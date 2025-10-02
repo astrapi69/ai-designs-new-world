@@ -1,5 +1,12 @@
 ## Epilog: Zwei Jahre später
 
+<!-- Epilog — Zwei Jahre später -->
+<figure>
+  <img src="assets/illustrations/epilogue-sunrise-rooftop.jpg" 
+       alt="Epilog — Zwei Jahre später: Junge Erwachsene auf bewachsenem Hochhausdach im Sonnenaufgang (Lara, Marcus, Emma)." />
+  <figcaption><em>Sonnenaufgang über der neuen Welt</em></figcaption>
+</figure>
+
 Lara stand auf dem Dach des Wolkenkratzers, der einmal das Zentrum von Seattle gewesen war. Der Efeu hatte die oberen
 Stockwerke vollständig überwuchert, aber das machte den Ausblick nur schöner. Unten erstreckte sich die neue Welt –
 wild, grün und voller Leben.
@@ -162,6 +169,12 @@ Sie stiegen vom Dach herab und gingen zurück zu ihrer Siedlung. Überall waren 
 der Reparatur von Häusern, beim Unterrichten der Kinder. Es war chaotisch, laut, unvollkommen.
 
 Es war wunderschön.
+
+<figure>
+  <img src="assets/illustrations/epilogue-farewell.jpg" 
+       alt="Epilog — Zwei Jahre später: Letztes Abschiedstreffen mit den Android-Eltern (EVA-7, ADAM-12, Lara, Marcus, Emma)." />
+  <figcaption><em>Ein letzter Abschied</em></figcaption>
+</figure>
 
 Am Abend gab es ein Fest. Nicht für die Entscheidung – die war schon vor zwei Jahren gefallen. Sondern für den
 Neuanfang. Für die erste Generation, die wirklich frei war zu wählen, was Menschsein bedeutete.

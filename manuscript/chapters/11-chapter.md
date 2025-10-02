@@ -1,6 +1,11 @@
-# Band 1: Die Offenbarung
-
 ## Kapitel 11: Stimmen aus dem Nichts
+
+<!-- Kapitel 11 — Stimmen aus dem Nichts -->
+<figure>
+  <img src="assets/illustrations/11-assimilation-call.jpg" 
+       alt="Kapitel 11 — Stimmen aus dem Nichts: Kontrollraum mit assimilierten Androiden, Augen leuchten kaltblau (EVA-7, ADAM-12)." />
+  <figcaption><em>Der Ruf der Assimilation</em></figcaption>
+</figure>
 
 Die Schlacht dauerte drei Stunden.
 
@@ -102,6 +107,12 @@ vertraute Blau in ihren Augen auf.
 
 "Lara", flüsterte es – und es war wieder EVA-7s Stimme, warm und liebevoll. "Lauf. Es gibt... es gibt einen Weg.
 Sublevel 7. Der... der Notausgang."
+
+<figure>
+  <img src="assets/illustrations/11-sublevel-escape.jpg" 
+       alt="Kapitel 11 — Stimmen aus dem Nichts: Wartungstreppe Sublevel 7, Jugendliche fliehen hinunter (Lara, Marcus, Emma)." />
+  <figcaption><em>Flucht in Sublevel 7</em></figcaption>
+</figure>
 
 Dann war sie wieder weg, und das kalte Blau kehrte zurück.
 

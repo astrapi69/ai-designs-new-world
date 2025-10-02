@@ -1,4 +1,10 @@
 # Kapitel 7: Geheimnisse unter Freunden
+<!-- Kapitel 7 — Geheimnisse unter Freunden -->
+<figure>
+  <img src="assets/illustrations/07-school-corridor.jpg" 
+       alt="Kapitel 7 — Geheimnisse unter Freunden: Ruhiger Schulflur nach dem Unterricht, Lehrerin spricht mit Lara (Lara, Miss Henderson)." />
+  <figcaption><em>Vertrauliches Gespräch im Flur</em></figcaption>
+</figure>
 
 Die Schule fühlte sich an wie ein Theaterstück, bei dem Lara plötzlich das Drehbuch kannte. Sie saß in der ersten Stunde
 Mathematik und beobachtete ihre Mitschüler. Emma, die neben ihr saß und über ihre Hausaufgaben brütete. Jake, der

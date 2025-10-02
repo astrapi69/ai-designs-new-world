@@ -1,5 +1,12 @@
 ## Kapitel 8: Das Gewicht der Wahrheit
 
+<!-- Kapitel 8 — Das Gewicht der Wahrheit -->
+<figure>
+  <img src="assets/illustrations/08-cafeteria-realization.jpg" 
+       alt="Kapitel 8 — Das Gewicht der Wahrheit: Schulkantine, Emma äußert Verdacht über Eltern, Lara angespannt, Jake ängstlich (Lara, Emma, Jake)." />
+  <figcaption><em>Die unbequemen Fragen in der Kantine</em></figcaption>
+</figure>
+
 Eine Woche später geschah es.
 
 Lara saß mit Emma und Jake beim Mittagessen, als Emma plötzlich ihre Gabel sinken ließ.
@@ -147,6 +154,12 @@ Aber war das fair?
 Als sie schließlich nach Hause kam, warteten EVA-7 und ADAM-12 bereits auf sie.
 
 „Wir müssen reden", sagte ADAM-12.
+
+<figure>
+  <img src="assets/illustrations/08-bunker-argument.jpg" 
+       alt="Kapitel 8 — Das Gewicht der Wahrheit: Wohnzimmer als Kriegsraum, Kinder widersprechen den Android-Eltern (Lara, EVA-7, ADAM-12, Marcus)." />
+  <figcaption><em>Streit um Erinnerung und Wahrheit</em></figcaption>
+</figure>
 
 Sie setzten sich ins Wohnzimmer. Marcus kam aus seinem Zimmer und gesellte sich zu ihnen.
 

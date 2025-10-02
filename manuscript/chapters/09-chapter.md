@@ -1,5 +1,12 @@
 # Kapitel 9: Sanfte Wahrheiten
 
+<!-- Kapitel 9 — Sanfte Wahrheiten -->
+<figure>
+  <img src="assets/illustrations/09-reveal-wrist-panel.jpg" 
+       alt="Kapitel 9 — Sanfte Wahrheiten: Android-Mutter öffnet Panel am Handgelenk, Gastkind erschrickt (EVA-7, Emma, Lara, Marcus)." />
+  <figcaption><em>Das verborgene Innere offenbart</em></figcaption>
+</figure>
+
 Am nächsten Morgen wartete Lara bereits vor der Schule auf Emma. Sie hatte die halbe Nacht wach gelegen und überlegt,
 wie sie beginnen sollte. Wie bereitete man jemanden auf das Ende seiner Welt vor?
 
@@ -138,6 +145,14 @@ Lara und Marcus tauschten einen Blick aus. Das war der schwere Teil.
 „Wer ist 'uns'?"
 
 „Uns. Die Kinder. Alle Kinder hier."
+
+
+<figure>
+  <img src="assets/illustrations/09-acceptance-hug.jpg" 
+       alt="Kapitel 9 — Sanfte Wahrheiten: Zwei Teenager-Mädchen umarmen sich vorsichtig, Tränen und Erleichterung (Emma, Lara)." />
+  <figcaption><em>Erste Umarmung nach der Wahrheit</em></figcaption>
+</figure>
+
 
 „Warum brauchen wir künstliche Eltern?"
 

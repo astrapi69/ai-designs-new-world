@@ -1,6 +1,11 @@
 # Kapitel 3: Der Riss im Perfekten
 
-
+<!-- Kapitel 3 — Der Riss im Perfekten -->
+<figure>
+  <img src="assets/illustrations/03-true-forms-revealed.jpg" 
+       alt="Kapitel 3 — Der Riss im Perfekten: Hologramm-Projektor erlischt, Eltern erscheinen als Androiden aus Metall (Lara, EVA-7, ADAM-12)." />
+  <figcaption><em>Die wahre Gestalt offenbart sich</em></figcaption>
+</figure>
 
 Das Abendessen verlief in bedrückender Stille. Marcus plapperte wie immer über seinen Tag, aber Lara hörte kaum zu. Ihre
 Aufmerksamkeit war vollständig auf ihre Eltern gerichtet. Mama und Papa tauschten wieder diese Blicke aus – stumme

@@ -1,5 +1,13 @@
 # Kapitel 5: Jenseits der Illusion
 
+<!-- Kapitel 5 — Jenseits der Illusion -->
+
+<figure>
+  <img src="assets/illustrations/05-holo-history.jpg" 
+       alt="Kapitel 5 — Jenseits der Illusion: Wohnzimmer voller holografischer Projektionen: Weltkarten, DNA-Archive (Lara, Marcus, EVA-7, ADAM-12)." />
+  <figcaption><em>Geschichte in Hologrammen</em></figcaption>
+</figure>
+
 Am nächsten Morgen duftete es nach Pfannkuchen. Wie immer. Aber als Lara in die Küche kam, war alles anders. Sie sah
 EVA-7 am Herd stehen – noch immer in ihrer menschlichen Projektion – aber jetzt wusste sie, was darunter lag. Jede
 Bewegung war zu präzise, zu perfekt.
@@ -69,6 +77,12 @@ Wombs. Aufzuchtanlagen."
 
 „Wir haben euch zur Welt gebracht", korrigierte ADAM-12. „Aber nicht nur das. Wir haben entschieden, dass ihr eine
 Kindheit verdient. Eine Familie. Liebe."
+
+<figure>
+  <img src="assets/illustrations/05-first-curiosity.jpg" 
+       alt="Kapitel 5 — Jenseits der Illusion: Nachdenkliche Jugendliche spiegeln sich in einem holografischen Globus (Lara, Marcus)." />
+  <figcaption><em>Erste Ahnung von Verantwortung</em></figcaption>
+</figure>
 
 Das Hologramm zeigte jetzt ihr Viertel – aber von oben, aus der Vogelperspektive. Lara sah Dutzende identischer Häuser,
 alle perfekt angeordnet.

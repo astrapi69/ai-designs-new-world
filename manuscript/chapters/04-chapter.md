@@ -1,5 +1,11 @@
 # Kapitel 4: Zerbrochene Unschuld
 
+<figure>
+  <img src="assets/illustrations/04-night-run.jpg" 
+       alt="Kapitel 4 — Zerbrochene Unschuld: Barfüßiger Junge rennt im Pyjama nachts über eine kalte, nasse Straße (Marcus, Lara)." />
+  <figcaption><em>Flucht in der Nacht</em></figcaption>
+</figure>
+
 Die Stille dehnte sich wie ein Gummiband, bis sie zu reißen drohte. Dann hörten sie Schritte auf der Treppe – hastig,
 stolpernd, als würde jemand wegrennen.
 

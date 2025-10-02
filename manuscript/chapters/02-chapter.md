@@ -1,11 +1,10 @@
 # Kapitel 2: Schlaflose Maschinen
 
+<!-- Kapitel 2 — Schlaflose Maschinen -->
 <figure>
-  <img src="assets/illustrations/02-dinner-reveal.jpg"
-       alt="Am Küchentisch: Lara sitzt zwischen ihren Eltern, während Marcus trotzig die Treppe hinaufstampft. Ein Moment schwerer Stille liegt über der Szene." />
-  <figcaption>
-    <em>Die Spannung vor der Wahrheit.</em>
-  </figcaption>
+  <img src="assets/illustrations/02-night-standby.jpg" 
+       alt="Kapitel 2 — Schlaflose Maschinen: Wohnzimmer in der Nacht, Eltern regungslos mit blauen LEDs an den Schläfen (Lara, EVA-7, ADAM-12)." />
+  <figcaption><em>Wohnzimmer in der Nacht, unheimliche Stille</em></figcaption>
 </figure>
 
 Lara konnte nicht schlafen. Um zwei Uhr morgens schlich sie sich aus ihrem Zimmer und ging zur Küche, um sich ein Glas

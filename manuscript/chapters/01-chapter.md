@@ -1,12 +1,10 @@
 # Kapitel 1: Perfekte Pfannkuchen
 
+<!-- Kapitel 1 — Perfekte Pfannkuchen -->
 <figure>
-  <img src="assets/illustrations/01-breakfast.jpg"
-       alt="Lara sitzt am Tisch, während ihre perfekte Mutter Pfannkuchen in makelloser Form in die Pfanne gießt. 
-       Ein sonntäglicher, idyllischer Küchenmoment, aber mit einer subtil unheimlichen Perfektion." />
-  <figcaption>
-    <em>Das perfekte Frühstück – zu perfekt, um echt zu sein.</em>
-  </figcaption>
+  <img src="assets/illustrations/01-breakfast-perfection.jpg" 
+       alt="Kapitel 1 — Perfekte Pfannkuchen: Perfekte Vorstadtküche um 8 Uhr morgens (Lara, Marcus, EVA-7, ADAM-12)." />
+  <figcaption><em>Perfekte Vorstadtküche am Sonntagmorgen</em></figcaption>
 </figure>
 
 

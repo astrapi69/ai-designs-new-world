@@ -1,5 +1,12 @@
 ## Kapitel 10: Das Signal
 
+<!-- Kapitel 10 — Das Signal -->
+<figure>
+  <img src="assets/illustrations/10-moon-sized-mothership.jpg" 
+       alt="Kapitel 10 — Das Signal: Gigantisches, mondgroßes Mutterschiff am Himmel, Verteidigungsstrahlen vom Boden." />
+  <figcaption><em>Ein zweiter Mond am Himmel</em></figcaption>
+</figure>
+
 Drei Tage später geschah etwas, das alles veränderte.
 
 Lara wachte mitten in der Nacht auf, weil ein seltsames Summen durch das Haus ging. Nicht laut, aber durchdringend – ein
@@ -117,6 +124,12 @@ Frage nach dem nächsten Schritt.
 
 „Überleben", sagte ADAM-12, während er den letzten Koffer ins Auto lud. „Und hoffen, dass die Bunker sie aufhalten
 können."
+
+<figure>
+  <img src="assets/illustrations/10-bunker-exodus.jpg" 
+       alt="Kapitel 10 — Das Signal: Nachtstraßen voller Fahrzeuge, Android-Eltern und Kinder fliehen zu den Bunkern." />
+  <figcaption><em>Exodus in die Bunker</em></figcaption>
+</figure>
 
 Die Fahrt durch die Nacht war surreal. Überall waren Lichter – andere Familien, die hastig ihre Häuser verließen. Autos
 voller Android-Eltern und menschlicher Kinder, alle auf dem Weg zu den Bunkern.
