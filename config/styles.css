@@ -244,3 +244,147 @@ a:visited {
         page-break-before: auto;
     }
 }
+
+
+/* ===========================
+   Print Table of Contents
+   - Dot leaders
+   - Right-aligned page numbers
+   - Tabular numerals
+   - No bullets
+   =========================== */
+
+.toc--print {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    margin: 0 0 1.2rem 0;
+    font-variant-numeric: tabular-nums;
+}
+
+.toc--print .toc__title {
+    font-weight: 600;
+    margin: 0 0 .5rem 0;
+}
+
+.toc--print ol,
+.toc--print ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.toc--print li {
+    display: flex;
+    align-items: baseline;
+    gap: .5rem;
+    /* Optional: leicht enger setzen */
+    line-height: 1.35;
+    /* Für sehr lange Zeilen, die umbrechen dürfen: */
+    flex-wrap: wrap;
+}
+
+.toc--print .toc__text {
+    /* Titelblock: darf umbrechen */
+    min-width: 0;
+}
+
+.toc--print .toc__leader {
+    /* Flex-Element, das den Zwischenraum füllt */
+    flex: 1 1 auto;
+    position: relative;
+    height: 1px;
+    align-self: center;
+    /* Dotted leader via repeating gradient */
+    background-image: repeating-linear-gradient(
+            to right,
+            currentColor 0,
+            currentColor 2px,
+            transparent 2px,
+            transparent 5px
+    );
+    opacity: .6;
+    /* leicht unter die Mittellinie setzen */
+    transform: translateY(-.2em);
+}
+
+.toc--print .toc__page {
+    /* Seitenzahl rechtsbündig und stabil breit */
+    text-align: right;
+    min-width: 3ch;         /* passt für bis zu 3-stellige Seitenzahlen */
+    font-variant-numeric: tabular-nums;
+}
+
+/* Feinschliff: Abschnittsabstände */
+.toc--print li + li { margin-top: .15rem; }
+
+/* Überschriftenabstände (z. B. "Bonus Materials" Block) */
+.toc--print .toc__section {
+    margin-top: .8rem;
+    font-weight: 700;
+}
+
+/* Druckmodus: etwas kompakter */
+@media print {
+    .toc--print { margin-bottom: .8rem; }
+    .toc--print li + li { margin-top: .1rem; }
+}
+
+.page-break {
+    page-break-before: always; /* klassische Eigenschaft */
+    break-before: page;        /* moderne Eigenschaft */
+}
+
+.toc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2em 0;
+    page-break-inside: avoid;
+}
+
+.toc-table td {
+    padding: 0.5em 0;
+    border: none;
+    vertical-align: baseline;
+}
+
+.toc-table td:first-child {
+    width: auto;
+    padding-right: 1em;
+}
+
+.toc-table td:last-child {
+    width: 3em;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+}
+
+/* Dot leaders zwischen den Spalten */
+.toc-table td:first-child::after {
+    content: "  ";
+    position: absolute;
+    padding-left: 0.5em;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+/* Alternative: Mit Punkten in mittlerer Spalte */
+.toc-dots {
+    width: auto;
+    text-align: center;
+    padding: 0 0.5em;
+    color: #999;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.toc-table h1 {
+    margin-bottom: 1em;
+}
+
+@media print {
+    .toc-table {
+        page-break-before: always;
+        page-break-after: always;
+    }
+}
