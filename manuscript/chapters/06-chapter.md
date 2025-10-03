@@ -42,7 +42,8 @@ das Moos an den Bäumen.
 „Lebendig", vollendete Marcus.
 
 Sie wanderten einen überwucherten Pfad entlang. Lara war fasziniert von den unregelmäßigen Formen der Bäume, den
-zufälligen Mustern des Sonnenlichts, das durch die Blätter fiel. In ihrem Sektor war sogar die Natur manikürt gewesen.
+zufälligen Mustern des Sonnenlichts, das durch die Blätter fiel. In ihrem Sektor schien selbst die Natur gezähmt, 
+sorgfältig geordnet wie in einem Schaugarten.
 
 Nach zwanzig Minuten erreichten sie eine Lichtung, und Lara blieb der Atem stehen.
 
