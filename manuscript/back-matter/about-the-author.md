@@ -1,7 +1,5 @@
 # @ Über den Autor {#about-the-author}
 
-## Draven Quantum
-
 **Draven Quantum** ist ein Autor spekulativer Philosophie, der die Grenze zwischen Technologie und menschlicher
 Sehnsucht erforscht. Seine Werke bewegen sich im Schwebezustand zwischen künstlicher Intelligenz und echter Emotion,
 zwischen programmierten Welten und ungezähmter Hoffnung – und fragen nicht, was möglich ist, sondern:
