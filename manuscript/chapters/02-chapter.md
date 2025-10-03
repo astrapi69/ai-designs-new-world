@@ -2,7 +2,7 @@
 
 <!-- Kapitel 2 — Schlaflose Maschinen -->
 <figure>
-  <img src="assets/illustrations/02-night-discovery.jpg" 
+  <img src="assets/illustrations/02-night-discovery-hell.png" 
        alt="Ein Teenager-Mädchen sitzt angespannt im dunklen Wohnzimmer, während zwei humanoide Androiden mit leuchtend 
             blauen LED-Streifen an Kopf und Körper regungslos daneben verharren. Die Szene wirkt unheimlich still und 
             geheimnisvoll." />

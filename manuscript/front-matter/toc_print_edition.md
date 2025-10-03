@@ -4,9 +4,7 @@
   <tr>
     <td>
       <b>Kapitel 1: Perfekte Pfannkuchen</b>
-      <div class="toc-desc">
-           Lara bemerkt die ersten Unstimmigkeiten im Verhalten ihrer „perfekten“ Eltern und beginnt, die richtigen Fragen zu stellen.
-      </div>
+      <div class="toc-desc">Lara bemerkt die ersten Unstimmigkeiten im Verhalten ihrer „perfekten“ Eltern und beginnt, die richtigen Fragen zu stellen.</div>
     </td>
     <td class="toc-page">5</td>
   </tr>
