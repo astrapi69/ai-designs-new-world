@@ -2,7 +2,7 @@
 
 <!-- Kapitel 3 — Der Riss im Perfekten -->
 <figure>
-  <img src="assets/illustrations/03-true-forms-revealed.jpg" 
+  <img src="assets/illustrations/03-revelation.jpg" 
        alt="Kapitel 3 — Der Riss im Perfekten: Hologramm-Projektor erlischt, Eltern erscheinen als Androiden aus Metall (Lara, EVA-7, ADAM-12)." />
   <figcaption><em>Die wahre Gestalt offenbart sich</em></figcaption>
 </figure>
