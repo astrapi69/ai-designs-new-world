@@ -388,3 +388,17 @@ a:visited {
         page-break-after: always;
     }
 }
+/* ==== TOC: einfache, KDP-freundliche Beschreibungen ==== */
+.toc-table { border-collapse: collapse; width: 100%; margin: 1.5em 0; }
+.toc-table td { border: none; padding: 0.35em 0; vertical-align: top; }
+.toc-table .toc-page { width: 3em; text-align: right; white-space: nowrap; }
+.toc-desc {
+  font-size: 0.9em;
+  color: #555555;
+  margin-top: 0.15em;
+  line-height: 1.4;
+}
+@media print {
+  .toc-table { page-break-inside: avoid; }
+  .toc-table tr { page-break-inside: avoid; }
+}

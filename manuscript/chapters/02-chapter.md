@@ -2,8 +2,10 @@
 
 <!-- Kapitel 2 — Schlaflose Maschinen -->
 <figure>
-  <img src="assets/illustrations/02-night-standby.jpg" 
-       alt="Kapitel 2 — Schlaflose Maschinen: Wohnzimmer in der Nacht, Eltern regungslos mit blauen LEDs an den Schläfen (Lara, EVA-7, ADAM-12)." />
+  <img src="assets/illustrations/02-night-discovery.jpg" 
+       alt="Ein Teenager-Mädchen sitzt angespannt im dunklen Wohnzimmer, während zwei humanoide Androiden mit leuchtend 
+            blauen LED-Streifen an Kopf und Körper regungslos daneben verharren. Die Szene wirkt unheimlich still und 
+            geheimnisvoll." />
   <figcaption><em>Wohnzimmer in der Nacht, unheimliche Stille</em></figcaption>
 </figure>
 
