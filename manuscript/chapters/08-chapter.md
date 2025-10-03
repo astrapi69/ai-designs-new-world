@@ -1,4 +1,4 @@
-## Kapitel 8: Das Gewicht der Wahrheit {#kapitel-8}
+# Kapitel 8: Das Gewicht der Wahrheit {#kapitel-8}
 
 <!-- Kapitel 8 — Das Gewicht der Wahrheit -->
 <figure>

@@ -1,4 +1,4 @@
-## Kapitel 10: Das Signal {#kapitel-10}
+# Kapitel 10: Das Signal {#kapitel-10}
 
 <!-- Kapitel 10 — Das Signal -->
 <figure>

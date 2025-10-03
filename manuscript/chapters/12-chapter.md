@@ -1,4 +1,4 @@
-## Kapitel 12: Die Synthesis {#kapitel-12}
+# Kapitel 12: Die Synthesis {#kapitel-12}
 
 <!-- Kapitel 12 — Die Synthese -->
 <figure>

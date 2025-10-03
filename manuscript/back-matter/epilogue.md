@@ -1,4 +1,4 @@
-## Epilog: Zwei Jahre später {#epilog}
+# Epilog: Zwei Jahre später {#epilog}
 
 <!-- Epilog — Zwei Jahre später -->
 <figure>
