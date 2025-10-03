@@ -1,4 +1,4 @@
-# Kapitel 9: Sanfte Wahrheiten
+# Kapitel 9: Sanfte Wahrheiten {#kapitel-9}
 
 <!-- Kapitel 9 — Sanfte Wahrheiten -->
 <figure>

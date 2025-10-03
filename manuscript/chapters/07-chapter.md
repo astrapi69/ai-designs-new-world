@@ -1,4 +1,4 @@
-# Kapitel 7: Geheimnisse unter Freunden
+# Kapitel 7: Geheimnisse unter Freunden {#kapitel-7}
 <!-- Kapitel 7 — Geheimnisse unter Freunden -->
 <figure>
   <img src="assets/illustrations/07-school-corridor.jpg" 

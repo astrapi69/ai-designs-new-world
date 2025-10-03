@@ -1,4 +1,4 @@
-# Kapitel 5: Jenseits der Illusion
+# Kapitel 5: Jenseits der Illusion {#kapitel-5}
 
 <!-- Kapitel 5 — Jenseits der Illusion -->
 

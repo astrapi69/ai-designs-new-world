@@ -1,4 +1,4 @@
-## Kapitel 6: Die Welt dahinter
+## Kapitel 6: Die Welt dahinter {#kapitel-6}
 
 <!-- Kapitel 6 — Die Welt dahinter -->
 <figure>

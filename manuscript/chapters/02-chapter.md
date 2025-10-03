@@ -1,4 +1,4 @@
-# Kapitel 2: Schlaflose Maschinen
+# Kapitel 2: Schlaflose Maschinen {#kapitel-2}
 
 <!-- Kapitel 2 — Schlaflose Maschinen -->
 <figure>

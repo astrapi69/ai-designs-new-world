@@ -21,7 +21,7 @@ OUTPUT_DIR = "./output"                         # Output directory for compiled 
 BACKUP_DIR = "./output_backup"                  # Backup location for previous output
 # Set to None to derive from pyproject.toml automatically.
 # Set a string to override the output file base name manually.
-OUTPUT_FILE = "die-offenbarung-band-1"
+OUTPUT_FILE = "band-1-die-offenbarung"
 LOG_FILE = "export.log"                         # Log file for script and Pandoc output/errors
 
 # Supporting script paths
@@ -47,12 +47,9 @@ FORMATS = {
 DEFAULT_SECTION_ORDER = [
     "front-matter/imprint.md",
     "front-matter/toc.md",
-    "front-matter/preface.md",
-    "front-matter/foreword.md",
     "chapters",  # Entire chapters folder
     "back-matter/epilogue.md",
     "back-matter/glossary.md",
-    "back-matter/appendix.md",
     "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
     "back-matter/bibliography.md",
@@ -65,12 +62,9 @@ EBOOK_SECTION_ORDER = DEFAULT_SECTION_ORDER
 PAPERBACK_SECTION_ORDER = [
     "front-matter/imprint.md",
     "front-matter/toc_print_edition.md", # <-- print ToC with page numbers
-    "front-matter/preface.md",
-    "front-matter/foreword.md",
     "chapters",  # Entire chapters folder
     "back-matter/epilogue.md",
     "back-matter/glossary.md",
-    "back-matter/appendix.md",
     "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
     "back-matter/bibliography.md",

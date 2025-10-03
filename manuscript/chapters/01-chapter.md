@@ -1,4 +1,4 @@
-# Kapitel 1: Perfekte Pfannkuchen
+# Kapitel 1: Perfekte Pfannkuchen {#kapitel-1}
 
 <!-- Kapitel 1 — Perfekte Pfannkuchen -->
 <figure>
